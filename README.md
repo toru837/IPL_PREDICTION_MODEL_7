@@ -237,3 +237,6 @@ This project is open source and available under the MIT License.
 ---
 
 **Last Updated:** May 31, 2026
+
+<img width="1040" height="794" alt="image" src="https://github.com/user-attachments/assets/81b39e1d-0221-4e27-968c-e1246a16b8fb" />
+
